@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=plotter
+comment1.params=s\ e
+comment1.target=void\ sinePlotter(int,\ double)
+numComments=2
